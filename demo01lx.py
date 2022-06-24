@@ -40,7 +40,8 @@ a=input("请输入：")
 b=input("请输入：")
 print(len(a+b))
 print(a+b)
-"""
 a=input("请输入：",)
 b=input("请输入：",)
 print(("a+b字符串长度之和",len(a+b)))
+
+"""
